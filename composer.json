@@ -1,5 +1,5 @@
 {
-    "name": "randomparanoia/filament-column-obfuscation",
+    "name": "penance316/filament-column-obfuscation",
     "description": "A Filament plugin that allows you to easily obfuscate sensitive data in table columns.",
     "keywords": [
         "randomparanoia",
@@ -7,12 +7,17 @@
         "laravel",
         "filament-column-obfuscation"
     ],
-    "homepage": "https://github.com/randomparanoia/filament-column-obfuscation",
+    "homepage": "https://github.com/penance316/filament-column-obfuscation",
     "license": "MIT",
     "authors": [
         {
             "name": "Luís Canadas",
             "email": "filipe.canadas@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Nero",
+            "email": "penance316@gmail.com",
             "role": "Developer"
         }
     ],
